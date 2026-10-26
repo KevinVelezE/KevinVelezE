@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Mathematics, through a computational lens</title>
+  <desc id="desc">An editorial composition with parallel projection lines crossing an ellipse and meeting a detector, inspired by tomography.</desc>
+  <rect width="1200" height="360" rx="16" fill="#101B2D"/>
+  <path d="M44 44H1156M44 316H1156M760 44V316" stroke="#30425C"/>
+  <text x="48" y="86" fill="#74D2C4" font-family="sans-serif" font-size="15" letter-spacing="3">ANALYSIS / INVERSE PROBLEMS / COMPUTATION</text>
+  <g fill="#EAF0F8" font-family="Georgia, serif" font-size="57">
+    <text x="46" y="169">Mathematics,</text>
+    <text x="46" y="237" font-size="47">through a computational lens.</text>
+  </g>
+  <text x="48" y="291" fill="#9DB8F2" font-family="sans-serif" font-size="18" letter-spacing="2">KEVIN VÉLEZ ESCARRIA</text>
+  <g transform="translate(970 177)">
+    <circle r="112" fill="none" stroke="#30425C"/>
+    <path d="M-136 0H136M0-124V124" stroke="#30425C"/>
+    <g transform="rotate(-28)">
+      <g stroke="#74D2C4" stroke-width="1.5" opacity="0.55">
+        <path d="M-131-72H123M-131-48H123M-131-24H123M-131 0H123M-131 24H123M-131 48H123M-131 72H123"/>
+      </g>
+      <ellipse rx="61" ry="86" fill="#9DB8F2" fill-opacity="0.09" stroke="#9DB8F2" stroke-width="2"/>
+      <ellipse cx="-17" cy="-18" rx="18" ry="39" fill="#74D2C4" fill-opacity="0.18"/>
+      <path d="M125-95V95" stroke="#EAF0F8" stroke-width="3"/>
+      <path d="M132-85C140-62 158-56 164-35S174 8 163 33S139 65 132 85" fill="none" stroke="#9DB8F2" stroke-width="2"/>
+    </g>
+    <circle r="3" fill="#74D2C4"/>
+  </g>
+</svg>
