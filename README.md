@@ -28,6 +28,11 @@ A theoretical and computational study of two-dimensional reconstruction through
 the Radon transform and filtered backprojection, including numerical experiments
 on reconstruction filters and sensitivity to noise. Supervised by **Julio Delgado**.
 
+For this work, I implemented Python simulations of projections, Fourier-domain
+filtering and image reconstruction. I designed reproducible numerical experiments
+to compare filters under noise, quantify reconstruction error and generate
+scientific visualizations.
+
 **[Read thesis](papers/tesis.pdf)** · [Download PDF](https://github.com/KevinVelezE/KevinVelezE/raw/refs/heads/main/papers/tesis.pdf)
 
 ---
@@ -39,8 +44,11 @@ on reconstruction filters and sensitivity to noise. Supervised by **Julio Delgad
 **MAPI 4 (2026) · Extended abstract · English · 6 pages**<br>
 Kevin Velez and **Juan Lopez**
 
-Fourier multiplier symbols and their role in reconstruction algorithms.
-Accompanied by a conference presentation at MAPI 4.
+Presented at the **Fourth Colombian Conference on Applied and Industrial
+Mathematics (MAPI 4)**, Icesi University, Cali, Colombia, **June 2–5, 2026**.
+
+Fourier multiplier symbols and their role in reconstruction algorithms, supported
+by numerical simulations and scientific figures prepared for the presentation.
 
 **[Read abstract](papers/mapi4-abstract.pdf)** · [Download PDF](https://github.com/KevinVelezE/KevinVelezE/raw/refs/heads/main/papers/mapi4-abstract.pdf)
 
@@ -60,11 +68,10 @@ work of building computational tools.
 <details>
 <summary><strong>Software practice — Backend Developer at Numera, since 2024</strong></summary>
 
-Alongside mathematics, I develop backend systems for accounting operations,
-electronic invoicing, tax workflows, inventory management and integrations with
-accounting and ERP software.
+Alongside mathematics, I develop Python backend services that automate accounting
+workflows, electronic invoicing, tax processes and inventory management. I integrate
+these workflows with external accounting and ERP systems.
 
-My day-to-day tools include **Python, databases, Redis, Docker and AWS**.
 I am interested in bringing this experience to reproducible mathematical software
 and accessible computational tools.
 
